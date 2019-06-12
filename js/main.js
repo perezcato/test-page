@@ -1,17 +1,22 @@
+
 $(document).ready(function(){
 
 
+
+	var waypoints = $('.header').waypoint({
+		handler: function(direction) {
+			$('.header').addClass('slider');
+		}
+	});
+
 	$("#portfolio-contant-active").mixItUp();
 
-
-	$("#testimonial-slider").owlCarousel({
-	    paginationSpeed : 500,      
+	$("#action").owlCarousel({
+	    paginationSpeed : 500,
+		loop:true,
 	    singleItem:true,
 	    autoPlay: 3000,
 	});
-
-
-
 
 	$("#clients-logo").owlCarousel({
 		autoPlay: 3000,
@@ -27,27 +32,26 @@ $(document).ready(function(){
 		itemsDesktopSmall : [979,5],
 	});
 
+		$("#header-menu").hide();
 
-	// google map
-		var map;
-		function initMap() {
-		  map = new google.maps.Map(document.getElementById('map'), {
-		    center: {lat: -34.397, lng: 150.644},
-		    zoom: 8
-		  });
-		}
+		$("#btn-menu").click(function () {
+			var headerMenu = $("#header-menu");
+			var siteNav = $("#site-nav");
+			headerMenu.fadeIn();
+			siteNav.fadeIn(300)
+		});
 
+	$("#btn-close").click(function () {
+		var headerMenu = $("#header-menu");
+		var siteNav = $("#site-nav");
+        headerMenu.fadeOut();
+        siteNav.fadeOut()
 
-	// Counter
-
-	$('.counter').counterUp({
-        delay: 10,
-        time: 1000
-    });
-
-
+	});
 });
+window.sr = new ScrollReveal();
 
+sr.reveal(".about-us",{delay: 250});
 
 
 
