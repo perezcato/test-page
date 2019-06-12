@@ -2,187 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41d98eb0-14dc-4c43-918b-2efa4b1fddaa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_data/action.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_data/projects.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2015-01-25-kumusha-bus.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2015-01-28-press-release.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2015-01-29-open-data-barometer.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2015-02-18-call-for-participation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2015-02-23-open-data-day.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2015-02-27-call-for-media-participation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2015-03-07-selected-media-houses.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2015-04-07-infographic.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2015-04-10-state-of-ghana-mothers.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2015-04-23-digital-broadcasting.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2015-04-30-twitterchat.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2015-06-16-mmda-budget.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2015-06-17-data-journalism-training.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2015-06-18-afari-gyans-contribution.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2015-06-26-petroleum-revenues.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2015-07-02-openstreet.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2015-07-14-look-back-at-talensi.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2015-07-20-midterm_data_mining.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2015-07-30-dumsor-curve.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2015-08-03-opendatahacknigt.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2015-08-24-waec-results.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2015-09-01-codeforghana-webscraping.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2015-10-02-lessons-learned-from-introducing-students-to-ddj.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2015-10-22-electoral-reforms.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2015-10-23-openstreetmap.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2015-10-26-child-mortality-and-sanitation-in-ghana.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2015-11-13-5th-accra-tech-salon.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2015-11-30-roads-budget-2016.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2015-12-04-farmersdaydata.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2015-12-16-sector-contribution-to-ghanas-gdp.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2015-12-19-ghana-migration.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2015-12-22-end-of-year-msg.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2016-02-02-sources-of-revenue-for-ghana-2016-budget.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2016-02-18-africas-corruption-perception-2014-2015.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2016-04-19-irregularities-in-2012-general-elections.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2016-06-20-global-slavery-index-2016.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2016-07-13-maternal-mortality-ratio-2015-ghana.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2016-07-28-social-media-ban-on-election-day.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2016-08-23-international-internet-day-2016.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2016-09-23-17500-ghanaians-died-from-air-pollution-in-2013.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2016-12-08-election-2016-special-voting-results.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2016-12-08-ghana-election-2016-app.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2016-12-12-ages-of-outgoing-parliamentarians.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2016-12-19-cnngetitright-an-analysis-of-10000-tweets.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2017-01-31-longest-serving-african-presidents.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2017-02-20-mobile-money-statistics-in-ghana.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2017-02-27-open-data-day-ghana-2017.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2017-03-24-accident-statistics-ghana.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2017-04-21-recap-of-code-for-ghana-events-2017.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2017-06-06-aodc-press-launch.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2017-06-07-improved-access-to-drinking-water.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2017-07-31-recap-of-aodc17.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2017-08-09-klarity-volunteers-meet-up.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2017-11-01-mapping-of-digital-innovation-stakeholders.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/about.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/025.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/Klarity2.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/Mapathon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/ODD.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/TE.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/acc1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/acc2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/acc3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/acc401.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/africacorruption.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/ages.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/airpollution.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/aodc.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/app.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/budget_rev.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/c4g-poster.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/call-for-participation.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/charlotteosei.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/child-mortality.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/cnn1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/cnnfinal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/cnnmiddle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/code1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/code2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/codeforghanamsg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/data-awesome.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/dearmp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/digibroadcasting.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/dumsor-curve.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/dumsor-th.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/dumsor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/electionirregularities.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/electoral-reforms.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/farmers.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/fireviz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/ghana-2016-budget.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/ghana-gdp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/ghana-migration.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/ghanagdp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/globalslavery.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/infocidento.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/internet.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/introtoddj1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/introtoddj2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/klairty.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/klarity.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/kumusha-bus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/mmda-budget.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/mmod.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/mmod2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/mortality.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/mothersindex.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/open-data-barometer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/open-data-day.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/opendatahacknight.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/opendatahacknight2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/openstreeet.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/petromoney.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/pl.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/polls.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/pop.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/presidents.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/press-release.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/review_bar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/roads-budget-horizontal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/specialvoting.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/sprouty.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/talensi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/tap.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/teamx.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/tech-salon-map.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/tech-salon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/tech-saloon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/teleMM.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/training.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/waecinfographic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/clients/afua.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/clients/florence.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/clients/nehemiah.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/codeforghana.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/covercfg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/mavc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/mmod.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/mwg-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/project/data-awesome.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/project/dearmp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/project/gotovote.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/project/odekro.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/project/teamx.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/project/where-our-money-dey.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/web-foundation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/wwd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/infinite.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.waypoints.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/scrollreveal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visualization.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/funfacts.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/funfacts.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-05-20-my-example-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-05-20-my-example-post.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-05-20-this-post-demonstrates-post-content-styles.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-05-20-this-post-demonstrates-post-content-styles.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-05-20-welcome-to-jekyll.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-05-20-welcome-to-jekyll.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/airspace.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/airspace.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/clients/clients-logo-9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/clients/clients-logo1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/clients/clients-logo10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/clients/clients-logo2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/clients/clients-logo3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/clients/clients-logo4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/clients/clients-logo5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/clients/clients-logo6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/clients/clients-logo7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/clients/clients-logo8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work.html" beforeDir="false" afterPath="$PROJECT_DIR$/work.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -195,11 +16,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/airspace.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
               <caret line="463" selection-start-line="463" selection-end-line="463" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.bundle/config">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/head.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_site/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="42" column="2" selection-start-line="42" selection-start-column="2" selection-end-line="42" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -293,7 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/js/scrollreveal.js" />
         <option value="$PROJECT_DIR$/_site/index.html" />
         <option value="$PROJECT_DIR$/_data/funfacts.yml" />
@@ -317,6 +169,7 @@
         <option value="$PROJECT_DIR$/projects.html" />
         <option value="$PROJECT_DIR$/visualization.html" />
         <option value="$PROJECT_DIR$/css/airspace.css" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -408,7 +261,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82461000" />
+    <option name="totallyTimeSpent" value="83438000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-4" width="1368" height="773" extended-state="6" />
@@ -475,13 +328,6 @@
     <entry file="file://$PROJECT_DIR$/.bundle/config">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/scrollreveal.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2183">
@@ -494,8 +340,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_site/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        <state relative-caret-position="405">
+          <caret line="42" column="2" selection-start-line="42" selection-start-column="2" selection-end-line="42" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -641,8 +487,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -798,6 +644,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="463" selection-start-line="463" selection-end-line="463" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
         </state>
       </provider>
     </entry>
