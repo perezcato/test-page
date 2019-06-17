@@ -1,0 +1,40 @@
+---
+layout: default
+---
+<section id="global-header" style="padding: 8% 30px">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block" style="padding: 10px 10px">
+          <h1 style="font-weight: bold; font-family: Bitstream Vera Sans Mono, Consolas, monospace">{{page.title}}</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{% if page.thumbnail %}
+<section id="post-image__page" class="post-image__page container text-center" style="margin-top: 4%">
+  <img src="{{site.baseurl}}/{{page.thumbnail}}" alt="{{page.title}}" class="img-thumbnail">
+</section>
+{% endif %}
+<div class="post">
+  <!-- Wrapper Start -->
+  <section id="intro" >
+    <div class="container">
+      <div class="row">
+        <div class="container">
+          <div class="block container">
+            <div class="post-info-wrapper">
+              <p class="italic">By <span class="bold">{{ page.author }}</span> on <span class="bold">{{ page.date | date: "%B %-d, %Y" }}</span></p>
+            </div>
+            <hr style="margin: 0;" />
+            <p class="text-justify">{{ content }}</p>
+          </div>
+        </div><!-- .col-md-7 close -->
+      </div>
+    </div>
+  </section>
+</div>
+<p class="center-text" style="padding: 30px;">
+  <a href="{{ site.baseurl }}/blog">Back to blog</a>
+</p>

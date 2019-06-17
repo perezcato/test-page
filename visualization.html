@@ -1,0 +1,30 @@
+---
+layout: page
+title: resources
+permalink: /visualization/
+---
+
+<section id="global-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block">
+                    <h1 style="font-weight: bold; font-family: Bitstream Vera Sans Mono, Consolas, monospace">Visualizations</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section id="blogs" class="container blogs">
+    <div class="row" style="padding: 0 5%">
+        <h2 class="col-md-offset-1" style="margin-bottom: 5% !important;">Latest Visualizations</h2>
+        {% for post in site.data.projects%}
+        <div class="blog-item slide-from-top col-md-3 col-md-offset-1 col-xs-12 text-center" style="margin-bottom: 4%; padding: 0 0">
+            <a href="#" class="slide-content">{{post.name}}</a>
+            <img src="{{site.baseurl}}/{{post.image}}" class="blog-image" alt="blog image">
+        </div>
+        {% endfor %}
+    </div>
+</section>
