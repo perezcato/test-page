@@ -1,0 +1,34 @@
+- name: Open Cities Accra
+  image: img/project/open-cities.jpg
+  contents: The Open Cities Accra project seeks to make Alogboshie and
+            its environs resilient to natural disasters especially flooding. The
+            Open Cities Accra Project seeks to make Alogboshie and its environs
+            resilient to natural disasters, especially flooding. The project will
+            also involve the remote mapping of Nima, Akweteman and Alajo.
+
+- name: Visuals for Gender
+  image: img/project/vfg.jpg
+  contents: This project is aimed at equipping citizens,
+            policymakers and Civil Society Organizations to understand gender-based
+            issues using both dynamic and static data visualizations.
+- name: Clean Streets Accra
+  image: img/project/CSA.jpg
+  contents: Clean Streets Accra is a city-wide effort to work with district assemblies and
+            make Accra the cleanest city in Africa.
+- name: Microsoft AppFactory
+  image: img/project/apps-factory.jpg
+  contents: The Ghana AppFactory is part of Microsoft’s 4Afrika initiative. The AppFactory
+            is aimed at equipping young software developers and coders with hands-on experience
+            while helping them build critical business skills to secure jobs or create their own businesses.
+- name: mCare
+  image: img/project/mcare.jpg
+  contents: X is a data visualisation project by Team X. One of the group that participated
+            in an Open Data Hack Night organised by Code for Ghana. The project is a visualisation
+            of the trend in price changes of world commodity products.
+- name: DearMP
+  image: img/project/dearmp.png
+  contents: DearMP is a web platform that serves as a communication channel for ordinary citizens
+            to connect and communicate with local authority.where citizens can register their
+            grievances about areas with poor sanitary conditions and bad roads by either writing
+            about them or uploading photos. The aim is to ensure that ordinary citizens collaborate
+            with local authority to find solutions to community problems.

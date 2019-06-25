@@ -1,0 +1,165 @@
+---
+layout: page
+title: Airspace
+permalink: /
+---
+
+<!-- Slider Start -->
+<section id="slider">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-10 col-md-offset-2">
+        <div class="block">
+          <h1 class="animated fadeInUp" style="font-weight: bold">POWER PEOPLE THROUGH<br>OPEN DATA<br>
+            <a href="{{site.baseurl}}/work" class="btn btn-info btn-lg">Learn More</a></h1>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- Wrapper Start -->
+<section id="intro">
+  <div class="container">
+    <div class="row about-us">
+      <div class="col-md-7 col-sm-12">
+        <div class="block">
+          <div class="section-title" style="font-size: 20px !important;">
+            <h2>About Us</h2>
+            <p>Code for Ghana is part of the Code for Africa initiative which aims to use open data and technology to promote responsive, innovative and effective governance.</p>
+          </div>
+          <p> Code for Ghana follows in the tradition of Code for Kenya and Code for South Africa by embedding software developers and data fellows in media organisations for a period of six months. During this period, the Data Fellows and Developers are expected to work with their host organisations on open data projects. Code for Ghana is jointly funded by
+            the African Innovative News Challenge and Making All Voices Count with support from the Webfoundation<br>
+            <br>
+            <a href="{{site.baseurl}}/work" class="btn btn-danger btn-lg">Read More</a>
+          </p>
+        </div>
+      </div><!-- .col-md-7 close -->
+      <div class="col-md-5 col-sm-12">
+        <div class="block" style="box-sizing: border-box">
+          <img src="img/codeforghana.png" class="about-image" width="100%" alt="Img">
+        </div>
+      </div><!-- .col-md-5 close -->
+    </div>
+  </div>
+</section>
+
+<section id="feature">
+<div class="container feature-overlay">
+  <div class="row">
+    <div class="col-md-7 col-md-offset-5 text-justify" style="padding: 0 10%; color: white">
+      <h2>What We Do</h2>
+      <p style="color: white">We embed developers and data fellows in newsrooms to create innovative platforms for better information dissemination and encourage collective action through citizen engagement </p>
+      <p style="color: white">We organise data bootcamps to share knowledge on open-data tools and demonstrate the value of open-data to the broader soceity.</p>
+      <p style="color: white">We build civic apps and platforms that will keep citizens well informed so that they can demand accountability, transparency and better services from the government.  </p>
+      <p style="color: white">We partner with CSOs, NGOs and Government organisations to bring meaning to their data-sets.</p>
+      <p style="color: white">We are also doing something bolder; we are taking a different approach to open governance.</p>
+    </div>
+  </div>
+</div>
+</section>
+
+<!-- Service Start -->
+<section id="service">
+  <div class="container">
+    <div class="row">
+      <div class="section-title">
+        <h2>Our Services</h2>
+      </div>
+    </div>
+    <div class="row ">
+      <div class="col-sm-6 col-md-4">
+        <div class="service-item">
+          <i class="icon ion-social-github"></i>
+          <h4>Hack For Better Ghana</h4>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4">
+        <div class="service-item">
+          <i class="ion-ios-cog"></i>
+          <h4>Create Innovation and New Opportunities</h4>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4">
+        <div class="service-item">
+          <i class="ion-ios-bell"></i>
+          <h4>Public Participation</h4>
+        </div>
+      </div>
+      </div>
+      <div class="col-sm-6 col-md-4">
+        <div class="service-item">
+          <i class="ion-trophy"></i>
+          <h4>Show the Value of Open Data</h4>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4">
+        <div class="service-item">
+          <i class="ion-ios-people"></i>
+          <h4>Connecting Civic Change Agents</h4>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4">
+        <div class="service-item">
+          <i class="ion-ios-analytics"></i>
+          <h4>Open Data</h4>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- Call to action Start -->
+<section id="call-to-action">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <h2>Using Digital Tools To Re-Define Citizen Engagement</h2>
+          <a class="btn btn-default btn-call-to-action" href="#" >Get Involved</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- Content Start -->
+<section id="testimonial">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <h2 style="text-align: center">Our Sponsors</h2>
+        {% if site.data.funfacts.size > 0 %}
+        <div class="block">
+          {% for ff in site.data.funfacts %}
+          <ul class="counter-box clearfix">
+            <li>
+              <div class="block">
+                <img class="img-rounded img-thumbnail" src="img/{{ ff.image }}" style="height: 105px">
+                <br>
+                <br>
+                <span>{{ ff.text }}</span>
+              </div>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+        {% endif %}
+      </div>
+      <div class="col-md-6">
+        <div class="testimonial-carousel">
+          <h2>Contact Us</h2>
+          <form action="#" role="form">
+            <div class="form-group">
+              <input type="text" class="mwg-form" id="name" placeholder="Enter name">
+            </div>
+            <div class="form-group">
+              <input type="email" class="mwg-form" id="exampleInputEmail1" placeholder="Enter email">
+            </div>
+            <div class="form-group">
+              <textarea class="mwg-form-textarea" rows="7" placeholder="enter message"></textarea>
+            </div>
+            <button class="btn btn-success" style="margin-bottom: 12px" type="submit">Submit</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

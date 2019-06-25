@@ -1,0 +1,36 @@
+---
+layout: page
+title: Blog
+permalink: /blog/
+---
+<!-- Slider Start -->
+<section id="global-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+            <h1 style="font-weight: bold; font-family: Bitstream Vera Sans Mono, Consolas, monospace">Blogs</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="blogs" class="container blogs">
+  <div class="row" style="padding: 0 5%">
+    <h2 class="col-md-offset-1" style="margin-bottom: 5% !important;">Latest Blogs</h2>
+    <div class="infinite-container">
+    {% for post in site.posts %}
+      <div class="blog-item slide-from-top col-md-3 col-md-offset-1 col-xs-12 text-center" style="margin-bottom: 4%; padding: 0 0">
+        <a href="{{post.url | prepend: site.baseurl}}" class="slide-content" style="text-transform: capitalize"> {{post.title}} {{post.image}} </a>
+        {% if post.thumbnail %}
+        <img src="{{site.baseurl}}/{{post.thumbnail}}" class="blog-image" alt="blog image">
+        {% else %}
+        <img src="{{site.baseurl}}/img/codeforghana.png" class="blog-image" alt="blog image">
+        {% endif %}
+      </div>
+    {% endfor %}
+     </div>
+  </div>
+</section>
+
