@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 - name: Open Cities Accra
   image: img/project/open-cities.jpg
   contents: The Open Cities Accra project seeks to make Alogboshie and
@@ -22,6 +23,35 @@
             while helping them build critical business skills to secure jobs or create their own businesses.
 - name: mCare
   image: img/project/mcare.jpg
+=======
+- name: Go to Vote
+  image: img/project/gotovote.png
+  contents: GotToVote! was built as a Code4Kenya data journalism
+           project to help odinary citizens find out how a national
+           event such as the elections affects their personal lives
+           or local communities. Our team from Ghana adapted the concept
+           to the Ghanaian context to help ease the hussle of voter registeration.
+- name: Odekro
+  image: img/project/odekro.jpg
+  contents: Odekro monitors parliamentary debate proceedings and makes
+            (Hansards) freely accessible to the citizens of Ghana. The goal of
+            Odekro is to promote transparency,provide online access to public
+            records and empower citizens to keep an eye on public officials,
+            especially parliament.
+- name: Where My Money Dey?
+  image: img/project/where-our-money-dey.png
+  contents: Where My Money Dey? is a volunteer-built project designed to improve
+            public accountability and civic engagement through active citizenry.
+            The prototype was built at Ghana's first ever d|Bootcamp that brought together
+            journalists and hacktivists in October 2012. A 2nd iteration was refined at a
+            follow-up d|Bootcamp in May 2013 with help from the Code for Africa initiative
+- name: Data-Awesome
+  image: img/project/data-awesome.png
+  contents: Data-Awesome is a data analysing app, that helps journalists and bloggers to
+            embed data into their content as user friendly graphs.
+- name: X
+  image: img/project/teamx.png
+>>>>>>> 123fade1f1f7070188e90a9b17991032c0102b9e
   contents: X is a data visualisation project by Team X. One of the group that participated
             in an Open Data Hack Night organised by Code for Ghana. The project is a visualisation
             of the trend in price changes of world commodity products.
@@ -31,4 +61,8 @@
             to connect and communicate with local authority.where citizens can register their
             grievances about areas with poor sanitary conditions and bad roads by either writing
             about them or uploading photos. The aim is to ensure that ordinary citizens collaborate
+<<<<<<< HEAD
             with local authority to find solutions to community problems.
+=======
+            with local authority to find solutions to community problems.
+>>>>>>> 123fade1f1f7070188e90a9b17991032c0102b9e
