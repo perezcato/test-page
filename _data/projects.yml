@@ -6,18 +6,16 @@
             Open Cities Accra Project seeks to make Alogboshie and its environs
             resilient to natural disasters, especially flooding. The project will
             also involve the remote mapping of Nima, Akweteman and Alajo.
-
+  link: https://opencitiesproject.org/accra/
 - name: Visuals for Gender
   image: img/project/vfg.jpg
   contents: This project is aimed at equipping citizens,
             policymakers and Civil Society Organizations to understand gender-based
             issues using both dynamic and static data visualizations.
+  link: https://visualsforgender.org/
 - name: Clean Streets Accra
   image: img/project/CSA.jpg
   contents: Clean Streets Accra is a city-wide effort to work with district assemblies and
             make Accra the cleanest city in Africa.
-- name: Microsoft AppFactory
-  image: img/project/apps-factory.jpg
-  contents: The Ghana AppFactory is part of Microsoft’s 4Afrika initiative. The AppFactory
-            is aimed at equipping young software developers and coders with hands-on experience
-            while helping them build critical business skills to secure jobs or create their own businesses.
+  link: http://www.cleanstreetsaccra.com/
+

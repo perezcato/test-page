@@ -20,7 +20,7 @@ layout: default
         <h2 class="col-md-offset-1" style="margin-bottom: 5% !important;">Latest Projects</h2>
         {% for post in site.data.projects%}
         <div class="blog-item slide-from-top col-md-3 col-md-offset-1 col-xs-12 text-center" style="margin-bottom: 4%; padding: 0 0">
-            <a href="#" class="slide-content">{{post.name}}</a>
+            <a href="{{site.link}}" class="slide-content">{{post.name}}</a>
             <img src="{{site.baseurl}}/{{post.image}}" class="blog-image" alt="blog image">
         </div>
         {% endfor %}
